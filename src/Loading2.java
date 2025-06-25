@@ -1,17 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
 
-/**
- *
- * @author Sudhir Kushwaha
- */
+ 
 public class Loading2 extends javax.swing.JFrame {
 
-    /**
-     * Creates new form Loading2
-     */
+    
+     
     public Loading2() {
         initComponents(); Thread t = new Thread(new Runnable() {
             @Override
