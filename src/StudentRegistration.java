@@ -1,9 +1,6 @@
 
 
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
+
 import javax.swing.JOptionPane;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -11,15 +8,10 @@ import java.sql.SQLException;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author Sudhir Kushwaha
- */
+
 public class StudentRegistration extends javax.swing.JFrame {
 
-    /**
-     * Creates new form StudentRegistration
-     */
+    
     public StudentRegistration() {
         initComponents();
     }
